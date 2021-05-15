@@ -1,0 +1,31 @@
+.comments {
+  flex-basis: 70%;
+  padding: 0 1% 1% 1%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  border-left: 1px solid #c56666;
+}
+
+.comments:hover {
+  margin: 0;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.parentComment {
+  border: 1px solid black;
+  padding: 15px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+.parentText {
+  border-bottom: 2px solid #5e5eaa;
+  margin-bottom: 5px;
+}
+
+.childrenComments {
+  padding: 5px 0 0 5px;
+  margin-left: 5px;
+  border-left: 2px solid #5e5eaa;
+}

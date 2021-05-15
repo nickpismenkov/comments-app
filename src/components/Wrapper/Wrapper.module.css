@@ -1,0 +1,15 @@
+.wrapper {
+  width: 90%;
+  height: 85%;
+  border: 1px solid #000;
+  border-top: none;
+  background-color: #fff;
+  border-radius: 0 0 5px 5px;
+  box-shadow: 5px 0 10px 2px #000;
+  z-index: 0;
+  display: flex;
+}
+
+.wrapper:hover {
+  box-shadow: 2px 0 5px 1px #2b2a2a;
+}

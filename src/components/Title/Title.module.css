@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+
+.title {
+  border-bottom: 3px solid #5e5eaa;
+  margin-bottom: 10px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.3rem;
+}
